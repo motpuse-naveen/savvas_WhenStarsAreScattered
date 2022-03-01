@@ -1,0 +1,364 @@
+@media (max-width:1240px) {
+    .popup-left-title {
+        font-size: 44px;
+    }
+}
+
+@media (max-width:1024px) {
+    .rikshaw-girl-bg {
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 990px) {
+    .rikshaw-girl-text {
+        position: relative;
+        padding-left: 0px;
+        max-width: 740px;
+        margin: 0 auto;
+    }
+    h1.main-heading {
+        font-family: 'poppins-semibold';
+        font-size: 160px;
+        text-shadow: 15px 0px 47px rgb(0 0 0);
+        color: #FFFFFF;
+        letter-spacing: -5px;
+        line-height: 170px;
+        margin-right: auto;
+    }
+    .popup-content-col .col-md-12 .popup-left-title {
+        margin-top: 0;
+        text-align: left;
+    }
+}
+@media (max-width: 990px) {
+    .author-container .author-wrap{
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 840px) {
+    .author-container {
+        position: inherit;
+    }
+    .author-container .author-wrap {
+        float: left;
+        padding: 20px;
+        padding-top: 145px;
+    }
+    .rikshaw-girl-bg {
+        background-size: 680px;
+        background-position-x: -165px;
+        background-position-y: -140px;
+    }
+    .rikshaw-girl-text {
+        position: relative;
+        padding-top: 60px;
+        padding-left: 0px;
+        max-width: 740px;
+        margin: 0 auto;
+    }
+    h1.main-heading {
+        font-family: 'poppins-semibold';
+        font-size: 160px;
+        text-shadow: 15px 0px 47px rgb(0 0 0);
+        color: #FFFFFF;
+        letter-spacing: -5px;
+        line-height: 170px;
+        margin-right: auto;
+    }
+    .moreInfo-wrapper {
+        float: right;
+        width: 370px;
+        margin-top: 0px;
+    }
+    .moreInfo-container {
+        margin-top: 100px;
+    }
+    .award-circle-wrap {
+        padding-left: 100px;
+        padding-top: 160px
+    }
+    .author-wrap span.image {
+        float: left;
+        margin-top: -24px;
+    }
+    .author-wrap span.text {
+        margin: 15px;
+        margin-top: -24px;
+        padding-top: 20px;
+    }
+    .orbitdiv {
+        position: absolute;
+        top: 215px;
+        right: -47px;
+        width: 234px;
+        height: 234px;
+    }
+    .orbitdiv-button{
+        right: -47px;
+        top:-284px;
+    }
+    .moreInfo{
+        top: 100px;
+    }
+}
+
+@media (max-width: 760px) {
+    h1.main-heading {
+        font-size: 130px;
+        letter-spacing: 0px;
+        line-height: 130px;
+        padding-left: 20px;
+    }
+    
+    .author-container .author-wrap{
+        padding-top: 220px;
+    }
+    .moreInfo-container {
+        margin-top: 150px;
+    }
+    
+    .text-content .card {
+        height: auto;
+        margin-bottom: 1rem;
+    }
+    img.aboutBookCover{
+        float: left;
+    }
+    .orbitdiv-button{
+        top: -255px;
+    }
+}
+
+@media (max-width: 730px) {
+    .card-body a.card-text {
+        font-size: 12px;
+    }
+    .card-body p.card-text {
+        font-size: 11px;
+    }
+    .card-back {
+        font-size: 9px;
+    }
+    .author-container .author-wrap{
+        padding-top: 145px;
+    }
+    .moreInfo-container {
+        margin-top: 150px;
+    }
+    
+}
+
+@media (max-width: 640px) {
+    .topMenuBar2 {display: none;}
+    .orbit1, .orbit2, .orbit3{display: none;}
+    .left-side-bar{display: none;}
+    .popup-concave-col{display: none;}
+    .popup-content-col{
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .content-panel{
+        margin-left: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .side-disclamer{
+        position: relative;
+        width: auto;
+    }
+    .content-panel .text-content h2:first-child {
+        padding-top: 10px;
+    }
+    .fixed-head-bar {
+        /*display: none;*/
+        background-color: transparent;
+        background: #000000B2;
+        background: linear-gradient( 180deg, #000000B2 0%, transparent 100%);
+        background: -webkit-linear-gradient( 270deg, #000000B2 0%, transparent 100%);
+        background: -moz-linear-gradient(180deg, #000000B2 0%, transparent 100%);
+    }
+    .top-mobile-menu-button{
+        display: block;
+        padding:20px;
+        padding-bottom: 5px;
+    }
+    .container-fs.bb {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+    }
+    .slide-beforereading, .slide-duringreading, .slide-afterreading{
+        margin-top: 90px !important;
+    }
+    .rikshaw-girl-text{
+        padding-top: 90px;
+        padding-bottom: 10%;
+    }
+    h1.main-heading{
+        font-size: 110px;
+        line-height:110px;
+    }
+    .orbitdiv{
+        position: fixed;
+        height: auto;
+        width: auto;
+        top: 20px;
+        right: 20px;
+        z-index: 91;
+    }
+    .orbitdiv-button{
+        position: fixed;
+        height: auto;
+        width: auto;
+        top: 20px;
+        right: 20px;
+        z-index: 91;
+    }
+    .orbitdiv button.moreInfo{display: block;}
+    .orbitdiv-button button.moreInfo{display: none;}
+    .orbitdiv .moreInfo{
+        position: unset;
+    }
+    .container-fs.slide.slide-aboutthebook {
+        margin-top: 0px;
+    }
+    .rikshaw-girl-bg {
+        background-size: 110%;
+        background-position-x: -20px;
+        background-position-y: -110px;
+    }
+    .award-circle-wrap {
+        padding-left: 0px;
+        padding-top: 0px;
+        position: absolute;
+        right: 10%;
+        top: 41%;
+    }
+    .moreInfo-wrapper {
+        float: left;
+    }
+    .moreInfo-wrapper{
+        width: auto;
+    }
+    .moreInfo-additionaltxt{
+        padding: 20px;
+    }
+    .actbtnFixed {
+        position: absolute;
+        float: right;
+        top: 167px;
+        left: unset;
+        right: 25px;
+    }
+    .author-container .text{
+        font-size: 20px;
+    }
+    .moreInfo-additionaltxt .title{
+        font-size: 19px;
+    }
+    .content-panel .text-content h2{
+        font-size: 32px;
+    }
+    .content-panel .text-content h3{
+        font-size: 22px;
+    }
+    .content-panel .text-content{
+        font-size: 15px;
+    }
+    .blue-button{
+        font-size: 15px;
+        padding: 3px 12px;
+    }
+    .content-panel .text-content h3.blue-heading, .content-panel .text-content p.blue-heading{
+        font-size: 18px;
+    }
+    .aboutauthorHeader{
+        font-size: 24px;
+    }
+    .popup-content-col{
+        font-size: 15px;
+    }
+    .popup-left-title{
+        font-size: 32px;
+    }
+    .popup-content-title{
+        font-size: 22px;
+    }
+    .annim-bg-image {
+        animation: bgImageSlideMobile 2s normal;
+    }
+}
+@media (max-width: 550px) {
+    h1.main-heading{
+        font-size: 90px;
+        line-height: 90px;
+    }
+    .award-circle-wrap {
+        top: 31%;
+    }
+    img.aboutBookCover{
+        width: 200px;
+    }
+    .aboutBook{
+        float: left;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 430px) {
+    h1.main-heading{
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .rikshaw-girl-text {
+        padding-bottom: 0%;
+    }
+    .award-circle-wrap {
+        top: 26%;
+    }
+    .author-container .text{
+        font-size: 20px;
+    }
+    .aboutBookCover-wrap{
+        float: left;
+    }
+    img.aboutBookCover{
+        width: 180px;
+    }
+    .aboutBook{
+        font-size: 14px;
+    }
+}
+@media (max-width: 360px) {
+    .author-container .author-wrap{
+        padding: 10px;
+        padding-top: 145px;
+    }
+    .moreInfo-additionaltxt{
+        padding: 10px;
+    }
+    .orbitdiv{
+        top: 20px;
+        right: 15px;
+    }
+    .aboutBook{
+        float: left;
+    }
+    .actbtnFixed{
+        position: initial;
+        padding-left: 20px;
+    }
+    h1.main-heading {
+        font-size: 46px;
+        line-height: 58px;
+    }
+    .author-container .text {
+        font-size: 16px;
+    }
+    .moreInfo-additionaltxt .title {
+        font-size: 16px;
+    }
+}
