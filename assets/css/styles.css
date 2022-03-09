@@ -11,6 +11,7 @@ body.black{
 
 ol, ul, dl {
     margin: 0px;
+    
 }
 
 a {
@@ -419,7 +420,14 @@ ul.small-bullet li {
     list-style-type: disc;
     margin: 10px 0px;
 }
+ul.small-circle {
+    margin-left: 30px;
+}
 
+ul.small-bullet li {
+    list-style-type: circle;
+    margin: 10px 0px;
+}
 table.table-style1 {
     border: 1px solid #000000;
     font-family: 'poppins-light';
