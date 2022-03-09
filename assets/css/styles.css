@@ -424,7 +424,7 @@ ul.small-circle {
     margin-left: 30px;
 }
 
-ul.small-bullet li {
+ul.small-circle li {
     list-style-type: circle;
     margin: 10px 0px;
 }
@@ -640,7 +640,7 @@ h1.main-heading {
     font-size: 120px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -10px;
+    letter-spacing: -5px;
     line-height: 170px;
     margin-right: 72px;
 }
