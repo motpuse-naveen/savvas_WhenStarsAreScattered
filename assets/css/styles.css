@@ -420,6 +420,16 @@ ul.small-bullet li {
     list-style-type: disc;
     margin: 10px 0px;
 }
+
+ul.small-number {
+    margin-left: 11px;
+}
+
+ul.small-number li {
+    
+    margin: 10px 0px;
+}
+
 ul.small-circle {
     margin-left: 30px;
 }
@@ -946,6 +956,24 @@ img.aboutBookCover{
     border: 1px solid #000000;
 
 }
+
+.table-dr-23{
+    width: auto;
+    box-shadow: 0px 6px 9px 0px rgba(102, 102, 102, 0.6);
+    -webkit-box-shadow: 0px 6px 9px 0px rgba(102, 102, 102, 0.6);
+    -moz-box-shadow: 0px 6px 9px 0px rgba(102, 102, 102, 0.6);
+}
+.table-dr-23 th{
+    text-align: center;
+    font-family: 'poppins-semibold';
+    border-bottom: 1px solid #000000 !important;
+}
+.table-dr-23 th, .table-dr-23 td{
+    text-align: left;
+    border: 1px solid #000000;
+
+}
+
 .tableProjTemp {
     border:0px
 }
