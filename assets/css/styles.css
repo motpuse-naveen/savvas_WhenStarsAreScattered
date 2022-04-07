@@ -652,12 +652,13 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 120px;
+    font-size: 84px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -5px;
-    line-height: 170px;
-    margin-right: 72px;
+    letter-spacing: 0px;
+    margin-left: 100px;
+    line-height: 126px;
+    margin-top: 29px;
 }
 
 .author-container {
@@ -691,7 +692,7 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -136px;
+    margin-top: -73px;
 }
 .moreInfo {
     position: absolute;
@@ -758,7 +759,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -280px;
+    top: -221px;
     right: -80px;
     width: 234px;
     height: 234px;
