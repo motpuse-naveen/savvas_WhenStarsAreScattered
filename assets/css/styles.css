@@ -488,7 +488,7 @@ table.table-style2 {
 
 table.table-style2 th {
     border: 1px solid #000000;
-    padding: 0px 5px;
+    padding: 10px 5px;
     font-weight: bold;
     font-family: 'poppins-semibold'
 }
@@ -496,7 +496,7 @@ table.table-style2 th {
 table.table-style2 td {
     border: 1px solid #000000;
     padding: 0px 5px;
-    text-align: center;
+    text-align: left;
 }
 
 table.table-style2 tr td:first-child {
