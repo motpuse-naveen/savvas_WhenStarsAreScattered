@@ -397,6 +397,13 @@ a:hover {
     line-height: 28px;
 }
 
+.content-panel .text-content h3.black-heading, .content-panel .text-content p.black-heading {
+    font-family: 'poppins-semibold';
+    font-size: 20px;
+    color: #000000;
+    line-height: 28px;
+}
+
 h3.blue-heading a, p.blue-heading a  {
     text-decoration: underline;
 }
@@ -618,22 +625,23 @@ table.table-style2 .trbg {
 
 .award-circle-wrap {
     padding-left: 30px;
-    padding-top: 45px;
+    padding-top: 0px;
+    margin-top: 190px;
 }
 
 .award-circle {
-    /*height: 180px;*/
-    width: 180px;
+    height: 134px;
+    width: 144px;
     background-color: #EBC979;
     border-radius: 50%;
 }
 
 .award-circle .award-text {
-    padding: 34px 15px;
+    padding: 23px 6px;
     font-family: 'poppins-semibold';
-    font-size: 20px;
+    font-size: 19px;
     text-align: center;
-    line-height: 22px;
+    line-height: 25px;
 }
 
 .side-image-bar {
@@ -958,7 +966,7 @@ img.aboutBookCover{
     border-bottom: 1px solid #000000 !important;
 }
 .table-dr-22 th, .table-dr-22 td{
-    text-align: center;
+    text-align: left;
     border: 1px solid #000000;
 
 }
