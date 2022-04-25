@@ -288,7 +288,20 @@ a:hover {
     color: #0056b3; 
 }
 
-
+.side-disclamer11{
+    font-family: "poppins-regular";
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: -200px;
+    margin-right: 11px;
+    position: fixed;
+    bottom: 0;
+    width: 180px;
+}
+.side-disclamer11 .disctext {
+    font-size: 11px !important;
+    margin-right: 5px !important;
+}
 .side-disclamer {
     font-family: "poppins-regular";
     font-size: 11px;
