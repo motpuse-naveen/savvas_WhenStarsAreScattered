@@ -1201,6 +1201,13 @@ img.aboutBookCover{
 .longl{
     letter-spacing: -3px;
 }
+
+.bgcol{
+    background-color: #ADD8E6 !important;
+}
+.bgcol1{
+    background-color: #FFD580 !important;
+}
 @-webkit-keyframes floatmenu {
     from {
         margin-top: -56px;
