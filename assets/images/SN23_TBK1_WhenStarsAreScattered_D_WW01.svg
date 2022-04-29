@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{fill:none;stroke:url(#SVGID_1_);stroke-width:28;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:url(#SVGID_3_);}
+	.st5{fill:none;stroke:#000000;stroke-width:1.0852;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#787878;stroke-miterlimit:10;}
+	.st7{fill:#CE181E;}
+	.st8{font-family:'Poppins-Bold';}
+	.st9{font-size:24px;}
+	.st10{fill:#1B8164;}
+	.st11{font-family:'Poppins-Medium';}
+	.st12{font-size:20px;}
+</style>
+<g id="BKGD">
+	<path class="st0" d="M15,0.2h762c8.1,0,14.8,6.6,14.8,14.8v582c0,8.1-6.6,14.8-14.8,14.8H15c-8.1,0-14.8-6.6-14.8-14.8V15
+		C0.2,6.9,6.9,0.2,15,0.2z"/>
+	<path d="M777,0.5c8,0,14.5,6.5,14.5,14.5v582c0,8-6.5,14.5-14.5,14.5H15c-8,0-14.5-6.5-14.5-14.5V15C0.5,7,7,0.5,15,0.5H777 M777,0
+		H15C6.7,0,0,6.7,0,15v582c0,8.3,6.7,15,15,15l0,0h762c8.3,0,15-6.7,15-15l0,0V15C792,6.7,785.3,0,777,0z"/>
+</g>
+<line class="st1" x1="50" y1="170.9" x2="742" y2="170.9"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="50" y1="443.125" x2="742" y2="443.125" gradientTransform="matrix(1 0 0 -1 0 614)">
+	<stop  offset="5.000000e-02" style="stop-color:#CE181E"/>
+	<stop  offset="0.19" style="stop-color:#E34916"/>
+	<stop  offset="0.31" style="stop-color:#E34916"/>
+	<stop  offset="0.68" style="stop-color:#1BD348"/>
+	<stop  offset="0.85" style="stop-color:#1BD348"/>
+	<stop  offset="0.97" style="stop-color:#1B956B"/>
+</linearGradient>
+<line class="st2" x1="80.9" y1="170.9" x2="711.1" y2="170.9"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="50" y1="443.125" x2="742" y2="443.125" gradientTransform="matrix(1 0 0 -1 0 614)">
+	<stop  offset="5.000000e-02" style="stop-color:#CE181E"/>
+	<stop  offset="0.19" style="stop-color:#E34916"/>
+	<stop  offset="0.31" style="stop-color:#E34916"/>
+	<stop  offset="0.68" style="stop-color:#1BD348"/>
+	<stop  offset="0.85" style="stop-color:#1BD348"/>
+	<stop  offset="0.97" style="stop-color:#1B956B"/>
+</linearGradient>
+<polygon class="st3" points="85.7,135.2 85.7,206.6 50,170.9 "/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="50" y1="443.125" x2="742" y2="443.125" gradientTransform="matrix(1 0 0 -1 0 614)">
+	<stop  offset="5.000000e-02" style="stop-color:#CE181E"/>
+	<stop  offset="0.19" style="stop-color:#E34916"/>
+	<stop  offset="0.31" style="stop-color:#E34916"/>
+	<stop  offset="0.68" style="stop-color:#1BD348"/>
+	<stop  offset="0.85" style="stop-color:#1BD348"/>
+	<stop  offset="0.97" style="stop-color:#1B956B"/>
+</linearGradient>
+<polygon class="st4" points="706.3,135.2 706.3,206.6 742,170.9 "/>
+<g>
+	<g>
+		<line class="st5" x1="153" y1="175.1" x2="153" y2="297.2"/>
+		<g>
+			<path d="M148.9,175.3c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1c0,2.3-1.8,4.1-4.1,4.1S148.9,177.5,148.9,175.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="411" y1="175.1" x2="411" y2="297.2"/>
+		<g>
+			<path d="M406.9,175.3c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1c0,2.3-1.8,4.1-4.1,4.1S406.9,177.5,406.9,175.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st5" x1="647" y1="175.1" x2="647" y2="297.2"/>
+		<g>
+			<path d="M642.9,175.3c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1c0,2.3-1.8,4.1-4.1,4.1S642.9,177.5,642.9,175.3z"/>
+		</g>
+	</g>
+</g>
+<rect x="557" y="290" class="st6" width="180" height="220"/>
+<rect x="298" y="290" class="st6" width="226" height="220"/>
+<rect x="50" y="290" class="st6" width="206" height="220"/>
+<text transform="matrix(1 0 0 1 52.25 113.395)" class="st7 st8 st9">More Pessimistic</text>
+<text transform="matrix(1 0 0 1 541.71 113.395)" class="st10 st8 st9">More Optimistic</text>
+<text transform="matrix(1 0 0 1 59.97 321.61)" class="st11 st12">“What hope was </text>
+<text transform="matrix(1 0 0 1 58.97 348.61)" class="st11 st12">there for us—for </text>
+<text transform="matrix(1 0 0 1 58.97 375.61)" class="st11 st12">any of us—to find </text>
+<text transform="matrix(1 0 0 1 58.97 402.61)" class="st11 st12">what we were </text>
+<text transform="matrix(1 0 0 1 58.97 429.61)" class="st11 st12">searching for?” </text>
+<text transform="matrix(1 0 0 1 58.97 456.61)" class="st11 st12">(237)</text>
+<text transform="matrix(1 0 0 1 307.96 321.61)" class="st11 st12">“I know maybe </text>
+<text transform="matrix(1 0 0 1 307.96 348.61)" class="st11 st12">everything won’t be </text>
+<text transform="matrix(1 0 0 1 307.96 375.61)" class="st11 st12">OK. But we have to </text>
+<text transform="matrix(1 0 0 1 307.96 402.61)" class="st11 st12">keep going anyway, </text>
+<text transform="matrix(1 0 0 1 307.96 429.61)" class="st11 st12">and make the most </text>
+<text transform="matrix(1 0 0 1 307.96 456.61)" class="st11 st12">with what we’ve </text>
+<text transform="matrix(1 0 0 1 307.96 483.61)" class="st11 st12">got.” (94)</text>
+<text transform="matrix(1 0 0 1 567.96 321.61)" class="st11 st12">“Everything will </text>
+<text transform="matrix(1 0 0 1 567.96 348.61)" class="st11 st12">be OK.” (36, 244)</text>
+</svg>

@@ -643,14 +643,14 @@ table.table-style2 .trbg {
 }
 
 .award-circle {
-    height: 134px;
-    width: 144px;
+    height: 132px;
+    width: 142px;
     background-color: #EBC979;
     border-radius: 50%;
 }
 
 .award-circle .award-text {
-    padding: 23px 6px;
+    padding: 31px 6px;
     font-family: 'poppins-semibold';
     font-size: 19px;
     text-align: center;
@@ -666,14 +666,14 @@ table.table-style2 .trbg {
 
 .rikshaw-girl-text {
     position: relative;
-    padding-top: 90px;
-    padding-left: 75px;
+    padding-top: 113px;
+    padding-left: 25px;
     z-index: 12;
 }
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 84px;
+    font-size: 98px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
     letter-spacing: 0px;
@@ -713,7 +713,7 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -73px;
+    margin-top: -89px;
 }
 .moreInfo {
     position: absolute;
@@ -780,7 +780,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -221px;
+    top: -244px;
     right: -80px;
     width: 234px;
     height: 234px;
@@ -1200,6 +1200,10 @@ img.aboutBookCover{
 }
 .longl{
     letter-spacing: -3px;
+}
+
+table.headtop tr th{
+    vertical-align: top;
 }
 
 .bgcol{
