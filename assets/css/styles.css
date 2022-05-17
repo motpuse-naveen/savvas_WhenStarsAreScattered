@@ -635,8 +635,25 @@ table.table-style2 .trbg {
     background-color: #000000;
     position: relative;
 }
-
+.bg-image-opacity{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    opacity: 0.5;
+    display: none;
+}
+.author-container.desktop{
+    display: block;
+}
+/*NM: 11-05-2022*/
+.author-container.mobile{
+    display: none;
+}
 .award-circle-wrap {
+    position: relative;
     padding-left: 30px;
     padding-top: 0px;
     margin-top: 190px;
@@ -663,7 +680,10 @@ table.table-style2 .trbg {
     left: 0;
     overflow: hidden;
 }
+.imag{
+    width: 78px;
 
+}
 .rikshaw-girl-text {
     position: relative;
     padding-top: 113px;

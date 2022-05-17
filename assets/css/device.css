@@ -44,8 +44,10 @@
     .author-container .author-wrap {
         float: left;
         padding: 20px;
-        padding-top: 145px;
+        padding-top: 31px;
+        margin-top: -216px;
     }
+   
     .rikshaw-girl-bg {
         background-size: 680px;
         background-position-x: -165px;
@@ -53,36 +55,44 @@
     }
     .rikshaw-girl-text {
         position: relative;
-        padding-top: 60px;
+        padding-top: 0px;
         padding-left: 0px;
         max-width: 740px;
         margin: 0 auto;
     }
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 160px;
+        font-size: 112px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
+        margin-left: 26px;
         letter-spacing: -5px;
-        line-height: 170px;
+        line-height: 118px;
         margin-right: auto;
     }
     .moreInfo-wrapper {
         float: right;
-        width: 370px;
+        width: 334px;
         margin-top: 0px;
     }
     .moreInfo-container {
-        margin-top: 100px;
+        margin-top: 28px;
     }
     .award-circle-wrap {
-        padding-left: 100px;
-        padding-top: 160px
+        padding-left: 252px;
+        padding-top: 0px;
+        margin-top: 29px;
     }
     .author-wrap span.image {
         float: left;
-        margin-top: -24px;
+        margin-top: -90px;
     }
+    /* .imag{
+        position: absolute;
+        width: 78px;
+        margin-top: -90px;
+        margin-left: 93px;
+    } */
     .author-wrap span.text {
         margin: 15px;
         margin-top: -24px;
@@ -102,6 +112,18 @@
     .moreInfo{
         top: 100px;
     }
+            /*NM: 11-05-2022*/
+            .moreInfo{
+                top: 191px;
+            }
+            /*NM: 11-05-2022*/
+            .moreInfo-additionaltxt {
+                padding: 40px 28px;
+            }
+            /*NM: 11-05-2022*/
+            .bg-image-opacity{
+                display: block;
+            }
 }
 
 @media (max-width: 760px) {
@@ -155,6 +177,18 @@
     .orbit1, .orbit2, .orbit3{display: none;}
     .left-side-bar{display: none;}
     .popup-concave-col{display: none;}
+     /*NM: 11-05-2022*/
+     .author-container.desktop{
+        display: none;
+    }
+    /*NM: 11-05-2022*/
+    .author-container.mobile{
+        display: block;
+    }
+    /*NM: 11-05-2022*/
+    .author-container.mobile .author-wrap {
+        padding-top: 387px;
+    }
     .popup-content-col{
         flex: 0 0 100%;
         max-width: 100%;
@@ -195,8 +229,8 @@
         margin-top: 90px !important;
     }
     .rikshaw-girl-text{
-        padding-top: 90px;
-        padding-bottom: 10%;
+        padding-top: 36px;
+        margin-left: -23px;
     }
     h1.main-heading{
         font-size: 110px;
@@ -310,14 +344,16 @@
 }
 @media (max-width: 430px) {
     h1.main-heading{
-        font-size: 80px;
-        line-height: 80px;
+        font-size: 4rem;
+        line-height: 61px;
     }
     .rikshaw-girl-text {
         padding-bottom: 0%;
     }
     .award-circle-wrap {
-        top: 26%;
+        top: 27%;
+        left: 215px;
+
     }
     .author-container .text{
         font-size: 20px;
