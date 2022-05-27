@@ -19,12 +19,16 @@
     }
     h1.main-heading {
         font-family: 'poppins-semibold';
-        font-size: 160px;
+        font-size: 98px;
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 170px;
+        line-height: 127px;
         margin-right: auto;
+    }
+    .moreInfo-wrapper {
+     
+        margin-top: 0px;
     }
     .popup-content-col .col-md-12 .popup-left-title {
         margin-top: 0;
@@ -34,6 +38,12 @@
 @media (max-width: 990px) {
     .author-container .author-wrap{
         padding-right: 30px;
+    }
+    .award-circle-wrap {
+        position: relative;
+        padding-left: 30px;
+        padding-top: 0px;
+        margin-top: 84px;
     }
 }
 
@@ -79,7 +89,7 @@
         margin-top: 28px;
     }
     .award-circle-wrap {
-        padding-left: 252px;
+        /* padding-left: 252px; */
         padding-top: 0px;
         margin-top: 29px;
     }
@@ -124,19 +134,25 @@
             .bg-image-opacity{
                 display: block;
             }
+            
 }
 
 @media (max-width: 760px) {
     h1.main-heading {
-        font-size: 130px;
+        font-size: 99px;
         letter-spacing: 0px;
-        line-height: 130px;
-        padding-left: 20px;
+        line-height: 87px;
+        padding-left: 20px
+
     }
-    
-    .author-container .author-wrap{
+    .moreInfo-wrapper {
+        float: right;
+        width: 320px;
+        margin-top: -19px;
+    }
+    /* .author-container .author-wrap{
         padding-top: 220px;
-    }
+    } */
     .moreInfo-container {
         margin-top: 150px;
     }
@@ -149,8 +165,9 @@
         float: left;
     }
     .orbitdiv-button{
-        top: -255px;
+        top: -314px;
     }
+    
 }
 
 @media (max-width: 730px) {
@@ -163,12 +180,34 @@
     .card-back {
         font-size: 9px;
     }
-    .author-container .author-wrap{
+    /* .author-container .author-wrap{
         padding-top: 145px;
-    }
+    } */
     .moreInfo-container {
         margin-top: 150px;
     }
+    
+}
+@media (max-width: 720px) {
+    .card-body a.card-text {
+        font-size: 10px;
+    }
+    .card-body p.card-text {
+        font-size: 11px;
+    }
+    .card-back {
+        font-size: 9px;
+    }
+    /* .author-container .author-wrap{
+        padding-top: 145px;
+    } */
+    .moreInfo-container {
+        margin-top: 150px;
+    }
+    .moreInfo-additionaltxt .title {
+        font-family: 'poppins-semibold';
+        /* font-size: 0px; */
+        color: #FFFFFF;}
     
 }
 
@@ -332,7 +371,7 @@
         line-height: 90px;
     }
     .award-circle-wrap {
-        top: 31%;
+        top: 37%;
     }
     img.aboutBookCover{
         width: 200px;
@@ -351,8 +390,8 @@
         padding-bottom: 0%;
     }
     .award-circle-wrap {
-        top: 27%;
-        left: 215px;
+        top: 29%;
+        left: 224px;
 
     }
     .author-container .text{
@@ -388,8 +427,8 @@
         padding-left: 20px;
     }
     h1.main-heading {
-        font-size: 46px;
-        line-height: 58px;
+        font-size: 36px;
+        line-height: 48px;
     }
     .author-container .text {
         font-size: 16px;
